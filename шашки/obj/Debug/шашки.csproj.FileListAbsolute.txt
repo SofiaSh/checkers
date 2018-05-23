@@ -1,0 +1,147 @@
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\bin\Debug\шашки.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\bin\Debug\шашки.exe
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\bin\Debug\шашки.pdb
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.exe
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.pdb
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\VS_Project\шашки, раб стол\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия\шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\VS_Project\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe.config
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.exe
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.pdb
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.pdb
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Form1.resources
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+D:\[Загрузки]\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\прппп\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\прппп\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\шашки, эксперементы — копия — копия\прппп\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\прппп\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\прппп\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\прппп\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\прппп\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\прппп\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\прппп\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\прппп\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\прппп\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\прппп\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+G:\прппп\шашки\bin\Debug\шашки.exe.config
+G:\прппп\шашки\obj\Debug\шашки.exe
+G:\прппп\шашки\obj\Debug\шашки.pdb
+G:\прппп\шашки\bin\Debug\шашки.exe
+G:\прппп\шашки\bin\Debug\шашки.pdb
+G:\прппп\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+G:\прппп\шашки\obj\Debug\шашки.Form1.resources
+G:\прппп\шашки\obj\Debug\шашки.Properties.Resources.resources
+G:\прппп\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+F:\прппп\шашки\bin\Debug\шашки.exe.config
+F:\прппп\шашки\obj\Debug\шашки.exe
+F:\прппп\шашки\obj\Debug\шашки.pdb
+F:\прппп\шашки\bin\Debug\шашки.exe
+F:\прппп\шашки\bin\Debug\шашки.pdb
+F:\прппп\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+F:\прппп\шашки\obj\Debug\шашки.Form1.resources
+F:\прппп\шашки\obj\Debug\шашки.Properties.Resources.resources
+F:\прппп\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+F:\прппп — копия\шашки\bin\Debug\шашки.exe.config
+F:\прппп — копия\шашки\obj\Debug\шашки.exe
+F:\прппп — копия\шашки\obj\Debug\шашки.pdb
+F:\прппп — копия\шашки\bin\Debug\шашки.exe
+F:\прппп — копия\шашки\bin\Debug\шашки.pdb
+F:\прппп — копия\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+F:\прппп — копия\шашки\obj\Debug\шашки.Form1.resources
+F:\прппп — копия\шашки\obj\Debug\шашки.Properties.Resources.resources
+F:\прппп — копия\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\bin\Debug\шашки.exe.config
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\obj\Debug\шашки.exe
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\obj\Debug\шашки.pdb
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\bin\Debug\шашки.exe
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\bin\Debug\шашки.pdb
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\obj\Debug\шашки.Form1.resources
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\obj\Debug\шашки.Properties.Resources.resources
+D:\[Загрузки]\прппп — копия(1)\прппп — копия\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\bin\Debug\шашки.exe.config
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.exe
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.pdb
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\bin\Debug\шашки.exe
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\bin\Debug\шашки.pdb
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.Form1.resources
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.Properties.Resources.resources
+D:\[Загрузки]\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашечки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\bin\Debug\шашки.exe.config
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\obj\Debug\шашки.exe
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\obj\Debug\шашки.pdb
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\bin\Debug\шашки.exe
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\bin\Debug\шашки.pdb
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\obj\Debug\шашки.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\obj\Debug\шашки.Form1.resources
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\obj\Debug\шашки.Properties.Resources.resources
+C:\Users\User\Downloads\Шашки (1)\Шашки\Шашки\Шашки\шашки\obj\Debug\шашки.csproj.GenerateResource.Cache
